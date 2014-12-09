@@ -32,7 +32,7 @@ MsPL：修改版本必须保持其原始版权声明。注意：不含商标授�
 
 [主流开源协议比较](http://www.oschina.net/news/27273/main-os-license-comparison)
 
-
+![主流开源协议比较](https://raw.githubusercontent.com/learn-OS/OpenSourceLincence/master/img/Lincence.jpg)
 
 
 
