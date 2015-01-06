@@ -22,6 +22,9 @@ MsPL：修改版本必须保持其原始版权声明。注意：不含商标授�
 
 另外，如果你违反了协议，不要以为改正错误就是好孩子，一旦被起诉，相关代码必须按许可协议的要求开源，不管是价值多少亿的商用软件。当然，如果是皮包公司，不在乎这个。
 
+[几个开源库抄袭讨论](http://www.trinea.cn/android/open-source/#0-tsina-1-86709-397232819ff9a47a7b7e80a40613cfe1)
+
+
 [<开源许可协议> 百度百科](http://baike.baidu.com/link?url=UUfb6kH7cG8ISAhqc618pp0CxSnDo7C4bq9tFrDM2Yh4A1AEbrlV3cgscuInopaTlnG_XPcbzXlza97GA1RBOK)
 
 [<开源协议> 百度百科](http://baike.baidu.com/link?url=UUfb6kH7cG8ISAhqc618pp0CxSnDo7C4bq9tFrDM2Yh4A1AEbrlV3cgscuInopaTlnG_XPcbzXlza97GA1RBOK)
